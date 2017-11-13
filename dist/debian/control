@@ -1,0 +1,13 @@
+Source:hellogcs
+Section: unknown
+Priority: optional
+Maintainer: rafaelrabetti <rafael.rabetti@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: <insert the upstream URL, if relevant>
+
+Package: hellogcs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: 
+  Hellooooooo gcsss!
